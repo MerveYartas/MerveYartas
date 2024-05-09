@@ -1,16 +1,17 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fbirhost.net%2Fyazilim-dilleri%2F&psig=AOvVaw02XLqhw4dT3f1dQolvNJmM&ust=1715347308888000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOie5urWgIYDFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=program%20dilleri&imgurl=https%3A%2F%2Fwww.arge24.com.tr%2Fwp-content%2Fuploads%2F2023%2F06%2FProgramlama-dilleri-1.jpg&imgrefurl=https%3A%2F%2Fwww.arge24.com.tr%2F2023un-en-populer-programlama-dilleri%2F&docid=PxBxoNnLMouk8M&tbnid=rF00H_U3Fft5jM&vet=12ahUKEwjOrdzo1ICGAxWOAtsEHbBCDwEQM3oECFUQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwjOrdzo1ICGAxWOAtsEHbBCDwEQM3oECFUQAA))
-<h1 align="center">Merhaba 👋, ben Merve Yartaş</h1>
-<h3 align="center">Sınırların ötesinde yaşayan bir tutku.</h3>
+### Hi there 👋, Merve Yartaş
+#### Computer Programmer
+A part of the coding world.
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=merveyartas&label=Profile%20views&color=0e75b6&style=flat" alt="merveyayartas" /> </p>
+Skills: C# / Java / Python / Angular / JS / HTML / CSS / SQLite
 
-<h3 align="left">Benimle iletişime geç:</h3 >
-<p align="left">
-</p>
+- 🔭 I’m currently working on enkanet.online 
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align = "left"> <a href = "https://angular.io" target = "_blank" rel = "noreferrer"> <img src = "https://angular.io/assets/images/logos /angular/angular.svg" alt = "angular" width = "40" height = "40"/> </a> <a href = "https://getbootstrap.com" target = "_blank" rel = "noreferrer" "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40" /> </a> <a href = "https://www.w3schools.com/cs/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/ devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/> </a> <a href = "https://www.w3schools. com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="css3" width = "40" height = "40"/> </a> <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer"> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" genişlik = "40" yükseklik = "40"/> < /a> <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/java/java-original.svg" alt = "java" width = "40" height = "40"/> </a> <a href = "https://developer.mozilla.org/en-US/ docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt= "javascript" width = "40" height = "40"/> </a> <a href = "https://nodejs.org" target = "_blank" rel = "noreferrer"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "40" height = "40"/> </a> <a href ="https://www.php.net" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php- orijinal.svg" alt = "php" width = "40" height = "40"/> </a> <a href = "https://www.python.org" target = "_blank" rel = "noreferrer"> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a > <a href = "https://www.scala-lang.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/scala/scala-original.svg" alt = "scala" width = "40" height = "40"/> </a> <a href = "https://www.sqlite.org/" target = " _blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt = "sqlite" width = "40" height = "40"/> </a> <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/ master/icons/typescript/typescript-original.svg" alt = "typescript" width = "40" height = "40"/> </a> </p>
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=merveyayartas&show_icons=true&locale=en&layout=compact" alt = "merveyartas" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MerveYartas)  
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=merveyayartas&show_icons=true&locale=en" alt = "merveyartas" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MerveYartas)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MerveYartas&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MerveYartas)  
+

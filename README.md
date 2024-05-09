@@ -1,6 +1,6 @@
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FBd3Qxd29YcTBVcWRXYUc1cnBUZEg5djdfd3xBQ3Jtc0tsOXlMY1Z6cm5kMVFYTmFNUDQ0SVJfLW5KdzFadklPMWcwTlhia2ZOMGRYRmdOSW9LaXpEYWcwNDJpTTlLQ2g0Tm5DaDlZNXVfdVhhcDNfdDZiSU9aY0dNdEZydHJxakxwckw1M3U2czI4SXA3NGNwWQ&q=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&v=Xy1mu8NTjeQ
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FBd3Qxd29YcTBVcWRXYUc1cnBUZEg5djdfd3xBQ3Jtc0tsOXlMY1Z6cm5kMVFYTmFNUDQ0SVJfLW5KdzFadklPMWcwTlhia2ZOMGRYRmdOSW9LaXpEYWcwNDJpTTlLQ2g0Tm5DaDlZNXVfdVhhcDNfdDZiSU9aY0dNdEZydHJxakxwckw1M3U2czI4SXA3NGNwWQ&q=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&v=Xy1mu8NTjeQ
 <h1 align="center">Hi 👋, I'm Merve Yartaş</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
